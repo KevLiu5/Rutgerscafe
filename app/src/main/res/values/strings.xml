@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Rutgers Cafe</string>
+    <string name="coffee_subtotal">Sub Total</string>
+    <string name="enter_an_integer">enter an integer</string>
+    <string name="CoffeeView">coffee view</string>
+    <string name="DonutView">Donut view</string>
+    <string name="BasketView">basket view</string>
+    <string name="StoreOrderView">Store Order View</string>
+    <string name="your_order">Your Order</string>
+    <string name="sub_total">Sub Total</string>
+    <string name="place_your_order">place your order</string>
+    <string name="sales_tax">Sales Tax</string>
+    <string name="total">Total</string>
+    <string name="coffeeImgDescription">coffee.jpeg</string>
+    <string name="donutImgDescription">donut.jpeg</string>
+    <string name="storeOrderImgDescription">store_order.jpeg</string>
+    <string name="basketImgDescription">basket.jpeg</string>
+    <string name="rowImgDescription">donut.jpeg</string>
+    <string name="cream">CREAM</string>
+    <string name="caramel">CARAMEL</string>
+    <string name="milk">MILK</string>
+    <string name="whipped_cream">WHIPPED_CREAM</string>
+    <string name="syrup">SYRUP</string>
+    <string name="add_to_order">ADD TO ORDER</string>
+    <string name="store_order">Store Order</string>
+    <string name="row_view_add_button">+</string>
+    <string-array name="itemNames">
+        <item>Glazed Donuts</item>
+        <item>Sprinkled Donuts</item>
+        <item>Jelly Donuts</item>
+        <item>Sour Cream Donut</item>
+        <item>Boston Cream Donut</item>
+        <item>Cinnamon Twist Donuts</item>
+        <item>Crullers</item>
+        <item>Chocolate Donut</item>
+        <item>Vanilla Donut</item>
+        <item>Pershing Donuts</item>
+        <item>Berliner Donuts</item>
+        <item>Coconut Donuts</item>
+    </string-array>
+
+    <string-array name="coffee_size_array">
+        <item>SHORT</item>
+        <item>TALL</item>
+        <item>GRANDE</item>
+        <item>VENTI</item>
+    </string-array>
+</resources>
